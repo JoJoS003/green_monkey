@@ -1,4 +1,4 @@
-source :rubygems
+source "https://rubygems.org"
 gemspec
 gem "mida", git: 'git://github.com/Paxa/mida.git', ref: '5289a3be1'
 gem "rails", "3.2.3"
